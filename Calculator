@@ -15,7 +15,7 @@
   align-items: center;  
   justify-content: center;  
   background-color: white;  
-  background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);  
+  background-image: linear-gradient(315deg, white 0%, white 74%);  
   font-family: 'Cookie', cursive;  
 }  
 .title {  
@@ -24,7 +24,7 @@ padding: 5px 0;
 font-size: 40px;  
 font-weight: bold;  
 text-align: center;  
-color: red;  
+color: black;  
 font-family: 'Cookie', cursive;  
 }  
 input[type=button] {  
@@ -126,3 +126,4 @@ OnClick="Calculator.Input.value += ' * '">
 </form>  
 </body>  
 </html>     
+
